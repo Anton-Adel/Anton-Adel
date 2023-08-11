@@ -12,7 +12,7 @@
 </p> -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anton-adel-22b3121a4/)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)]([https://drive.google.com/file/d/1RWedjtof0zPg22c-omLabE8z0NA_6XRj/view?usp=sharing](https://drive.google.com/file/d/1x7AlsAKSp5-8acf8GC42E62UqUw3moW8/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1x7AlsAKSp5-8acf8GC42E62UqUw3moW8/view?usp=sharing)
 
      
 
